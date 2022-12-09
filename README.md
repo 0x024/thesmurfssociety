@@ -5,20 +5,14 @@
 </center>
 
 
-<center>
 
-心有山海，静而不争
+<center>心有山海，静而不争</center>
+
 
 There are mountains and seas in the heart 
 
 quiet but without contention 
 
-
-website:0x024.com
-
-twitter:_0x024
-
-mirror: https://mirror.xyz/1x024.eth/
 
 如果喜欢我，您的支持将给予我无限分享下去的动力
 
