@@ -1,12 +1,10 @@
-<center>
 
 # :face_with_thermometer: web3的兼职者:partying_face: 
 
-</center>
 
 
 
-<center>心有山海，静而不争</center>
+<p algin="center">心有山海，静而不争</p>
 
 
 There are mountains and seas in the heart 
