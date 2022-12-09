@@ -23,7 +23,6 @@
 <p align="center"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="344" height="20" role="img" aria-label="ERC-20: 0x14bCa363445462082101164Eff599F83fbBEbab1"><title>ERC-20: 0x14bCa363445462082101164Eff599F83fbBEbab1</title><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="344" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#r)"><rect width="51" height="20" fill="#555"/><rect x="51" width="293" height="20" fill="#9f9f9f"/><rect width="344" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text aria-hidden="true" x="265" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="410">ERC-20</text><text x="265" y="140" transform="scale(.1)" fill="#fff" textLength="410">ERC-20</text><text aria-hidden="true" x="1965" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="2830">0x14bCa363445462082101164Eff599F83fbBEbab1</text><text x="1965" y="140" transform="scale(.1)" fill="#fff" textLength="2830">0x14bCa363445462082101164Eff599F83fbBEbab1</text></g></svg>
 
 
-
 ## 0x01 项目背景
 由Ultiverse主办的足球节预测活动。
 加入我们就有机会赢取NFT，总计5,000 BUSD等丰厚奖励！
