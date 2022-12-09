@@ -17,11 +17,9 @@
 
    
 <p align="center">
-
 ![](https://img.shields.io/badge/website-0x024.com-lightgrey)
 ![](https://img.shields.io/badge/mirror-https%3A%2F%2Fmirror.xyz%2F1x024.eth%2F-lightgrey)
 ![](https://img.shields.io/badge/ERC--20-0x14bCa363445462082101164Eff599F83fbBEbab1%20-lightgrey)
-
 </p>
 
 
