@@ -3,3 +3,4 @@
 tool/Chromium*
 venv/
 .DS_Store
+.gitignore
