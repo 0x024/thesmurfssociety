@@ -4,7 +4,7 @@
 
 
 
-<p algin="center">心有山海，静而不争</p>
+<p align="center">心有山海，静而不争</p>
 
 
 There are mountains and seas in the heart 
