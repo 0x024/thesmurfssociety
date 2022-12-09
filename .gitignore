@@ -2,3 +2,4 @@
 *.db
 tool/Chromium*
 venv/
+.DS_Store
