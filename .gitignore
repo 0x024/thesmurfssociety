@@ -1,0 +1,4 @@
+.idea/
+*.db
+tool/Chromium*
+venv/
